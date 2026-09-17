@@ -1,3 +1,5 @@
+package com.example.restservice;
+
 /**
  * Especialización de Granada de tipo incendiaria.
  * No agrega atributos ni métodos propios respecto al diagrama.

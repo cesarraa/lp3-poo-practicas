@@ -40,4 +40,4 @@ gs-rest-service-complete/.springBeans
 
 #Esta Linea fue escrita por Kevin March 
 *.tmp
-
+.gradle/

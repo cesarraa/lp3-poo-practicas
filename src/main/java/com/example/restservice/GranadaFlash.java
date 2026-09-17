@@ -1,3 +1,5 @@
+package com.example.restservice;
+
 /**
  * Especialización de Granada de tipo flash (cegadora).
  * No agrega atributos ni métodos propios respecto al diagrama.

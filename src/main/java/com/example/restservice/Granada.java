@@ -1,3 +1,5 @@
+package com.example.restservice;
+
 /**
  * Representa un arma de tipo granada, que se lanza en lugar de dispararse.
  * Sirve como clase base para las especializaciones de granada.

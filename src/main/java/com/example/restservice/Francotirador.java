@@ -1,3 +1,5 @@
+package com.example.restservice;
+
 /**
  * Representa un arma especializada en disparos a larga distancia. Hereda de Arma.
  */

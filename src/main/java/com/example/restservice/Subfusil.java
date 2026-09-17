@@ -1,3 +1,5 @@
+package com.example.restservice;
+
 /**
  * Representa un arma automática de tamaño reducido. Hereda de Arma.
  */

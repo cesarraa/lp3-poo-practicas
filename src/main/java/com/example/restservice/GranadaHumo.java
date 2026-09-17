@@ -1,3 +1,5 @@
+package com.example.restservice;
+
 /**
  * Especialización de Granada destinada a producir humo.
  * No agrega atributos ni métodos propios respecto al diagrama.

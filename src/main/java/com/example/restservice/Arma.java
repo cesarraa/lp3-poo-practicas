@@ -1,3 +1,5 @@
+package com.example.restservice;
+
 /**
  * Clase base que representa un arma genérica.
  * Contiene los atributos y comportamientos comunes a todos los tipos de armas.

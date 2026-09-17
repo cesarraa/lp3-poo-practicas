@@ -1,3 +1,5 @@
+package com.example.restservice;
+
 /**
  * Enumeración que define los distintos tipos de granada disponibles.
  */

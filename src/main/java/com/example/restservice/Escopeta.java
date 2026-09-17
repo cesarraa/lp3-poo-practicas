@@ -1,3 +1,5 @@
+package com.example.restservice;
+
 /**
  * Representa un arma de tipo escopeta. Hereda de Arma.
  */
